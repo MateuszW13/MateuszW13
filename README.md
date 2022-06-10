@@ -11,6 +11,11 @@ Beside developing application I also study mechatronic engineering at AGH Univer
 3. Möbel&Zeit Smart Home
 4. MathMick
 5. ExtaLife
+6. Goal News
+7. Goal Livescores
+8. Voetbalzone
+9. Spox
+10. Ole
 
 💬 Feel free to contact me at mwagnerdev@gmail.com
 
