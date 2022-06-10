@@ -2,8 +2,8 @@
 
 My name is Mateusz
 
-I am a Regular iOS Developer with about 2 years of commercial experience.
-Beside developing application I also study mechatronic engineering at AGH University of Science and Technology in Kraków to graduate with master degree.
+I am a Regular iOS Developer with about 3 years of commercial experience.
+Beside developing application I also graduated with master degree mechatronic engineering at AGH University of Science and Technology in Kraków.
 
 ⚡ All projects, where I was involved are:
 1. Traficar
