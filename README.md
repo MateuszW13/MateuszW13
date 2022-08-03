@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[logo_cover_linkedin](https://user-images.githubusercontent.com/37062928/182609624-252a52b8-9a98-4f01-ad5f-09acc1bb9383.png)
+![alt text](https://user-images.githubusercontent.com/37062928/182609624-252a52b8-9a98-4f01-ad5f-09acc1bb9383.png)
 
 My name is Mateusz!
 
