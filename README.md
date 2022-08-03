@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My name is Mateusz
+[logo_cover_linkedin](https://user-images.githubusercontent.com/37062928/182609624-252a52b8-9a98-4f01-ad5f-09acc1bb9383.png)
+
+My name is Mateusz!
 
 I am a Regular iOS Developer with about 3 years of commercial experience.
 Beside developing application I also graduated with master degree mechatronic engineering at AGH University of Science and Technology in Kraków.
