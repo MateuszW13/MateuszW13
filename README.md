@@ -9,19 +9,18 @@ Beside developing application I also graduated with master degree mechatronic en
 You can check my portfolio outside commercial companies here: https://www.wagnercorp.pl
 
 ⚡ All projects, where I was involved are:
-1. Traficar
-2. innogy go!
-3. Möbel&Zeit Smart Home
-4. MathMick
+1. GOAL
+2. WatchCouch10K Runner
+3. WatchCouch21K Runner (Half Marathon)
+4. Traficar
 5. ExtaLife
-6. Goal News
-7. Goal Livescores
-8. Voetbalzone
-9. Spox
-10. Ole
-11. WatchCouch5K Runner
-12. WatchCouch10K Runner
-13. WatchCouch21K Runner
+6. MathMick
+7. innogy go!
+8. Möbel&Zeit Smart Home
+9. Goal Livescores
+10. Voetbalzone
+11. Spox
+12. Ole
 
 💬 Feel free to contact me at mwagnerdev@gmail.com
 <!--
