@@ -12,15 +12,16 @@ You can check my portfolio outside commercial companies here: https://www.wagner
 1. GOAL
 2. WatchCouch10K Runner
 3. WatchCouch21K Runner (Half Marathon)
-4. Traficar
-5. ExtaLife
-6. MathMick
-7. innogy go!
-8. Möbel&Zeit Smart Home
-9. Goal Livescores
-10. Voetbalzone
-11. Spox
-12. Ole
+4. WatchCouch42K Runner (Marathon)
+5. Traficar
+6. ExtaLife
+7. MathMick
+8. innogy go!
+9. Möbel&Zeit Smart Home
+10. Goal Livescores
+11. Voetbalzone
+12. Spox
+13. Ole
 
 💬 Feel free to contact me at mwagnerdev@gmail.com
 <!--
