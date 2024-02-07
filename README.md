@@ -10,15 +10,15 @@ You can check my portfolio outside commercial companies here: https://www.wagner
 
 ⚡ All projects, where I was involved are:
 1. GOAL
-2. WatchCouch10K Runner
-3. WatchCouch21K Runner (Half Marathon)
-4. WatchCouch42K Runner (Marathon)
-5. Traficar
-6. ExtaLife
-7. MathMick
-8. innogy go!
-9. Möbel&Zeit Smart Home
-10. Goal Livescores
+2. GOAL Livescores
+3. WatchCouch10K Runner
+4. WatchCouch21K Runner (Half Marathon)
+5. WatchCouch42K Runner (Marathon)
+6. Traficar
+7. ExtaLife
+8. MathMick
+9. innogy go!
+10. Möbel&Zeit Smart Home
 11. Voetbalzone
 12. Spox
 13. Ole
